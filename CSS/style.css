@@ -43,6 +43,7 @@ h4{
     display: flex;
     flex-wrap: wrap;
     
+    
 }
 .blog{
     width: 300px;
@@ -53,6 +54,7 @@ h4{
     flex-wrap: wrap;
     padding-bottom: 20px;
     margin-bottom: 20px;
+    border-radius: 16px;
     
 
 }
@@ -63,19 +65,58 @@ h4{
     margin-left: 8em;
     margin-right: 8em;
 }
-.blog1{
-    display: left;
-    margin: 0;
-    padding: 0;
-    height: 16px;
-    padding: 20em;
+.image3{
+    margin-right: 50px;
 }
 .image{
-    height: 900px;
-    width: 500px;
-    margin-top: 90px;
+   margin:0em;
+   padding: 11px;
+}
+.mgr{
+    text-align: center;
+}
+.Logo{
+    display: inline-block;
     
 }
+.cd{
+    margin-right: 40em;
+    height: 10em;
+}
+.container0{
+    margin-left:    10em;
+    margin-top: 10em;
+    height: 16px;
+    
+    
+}
+.section6{
+    padding: 10em;
+    margin: 16em;
+    background-color:beige;
+    padding: 2em;
+    margin-bottom: 30px;
+    margin-left: 8em;
+    margin-right: 7em;
+    border-radius: 30px;
+
+}
+.vc{
+    align-content: center;
+    width: 6000;
+    margin: 50px;;
+    margin-bottom: 16px;
+}
+
+
+
+
+
+
+
+    
+
+
 
 
 
